@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   title: "BitStore",
   description: "BitStore - Your files. Your cloud. Simplified.",
   icons: {
-    icon: "/assets/icons/database.svg", // 👈 favicon here (must be in /public/assets/icons/)
+    icon: "/assets/icons/database.svg",
   },
 };
 
